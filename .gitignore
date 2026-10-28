@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.tmp
+backups/*.zip
+exports/*
+!exports/.gitkeep
+logs/*.log
+!logs/.gitkeep
+test_sandbox/
+test_hub_*
+.pytest_cache/
+.vscode/
+.idea/
+
