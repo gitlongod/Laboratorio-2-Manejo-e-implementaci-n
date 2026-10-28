@@ -1,0 +1,19 @@
+[2026-10-21 22:19:26,127] [INFO] (main) =================================================================
+[2026-10-21 22:19:26,127] [INFO] (main) Iniciando ContactHub Enterprise v2.0.0
+[2026-10-21 22:19:26,127] [INFO] (main) Organización: URL Ingeniería - Lab No. 2
+[2026-10-21 22:19:26,127] [INFO] (main) Python Runtime: 3.14.6 (tags/v3.14.6:c63aec6, Jun 10 2026, 10:26:10) [MSC v.1944 64 bit (AMD64)]
+[2026-10-21 22:19:26,127] [INFO] (main) Directorio Base: C:\Users\cdmon\URL\archivos\Agenda-de-contactos-_-lab2
+[2026-10-21 22:19:26,128] [INFO] (main) =================================================================
+[2026-10-21 22:19:26,155] [INFO] (storage.index_manager) Índice cargado exitosamente: 10 entradas
+[2026-10-21 22:19:27,548] [INFO] (main) Interfaz QML cargada exitosamente. Motor gráfico activo a 60 FPS.
+[2026-10-28 10:41:52,952] [INFO] (main) =================================================================
+[2026-10-28 10:41:52,967] [INFO] (main) Iniciando ContactHub Enterprise v2.0.0
+[2026-10-28 10:41:52,968] [INFO] (main) Organización: URL Ingeniería - Lab No. 2
+[2026-10-28 10:41:52,968] [INFO] (main) Python Runtime: 3.14.6 (tags/v3.14.6:c63aec6, Jun 10 2026, 10:26:10) [MSC v.1944 64 bit (AMD64)]
+[2026-10-28 10:41:52,969] [INFO] (main) Directorio Base: C:\Users\cdmon\URL\archivos\Agenda-de-contactos-_-lab2
+[2026-10-28 10:41:52,969] [INFO] (main) =================================================================
+[2026-10-28 10:41:53,296] [INFO] (storage.index_manager) Índice cargado exitosamente: 10 entradas
+[2026-10-28 10:41:56,899] [INFO] (main) Interfaz QML cargada exitosamente. Motor gráfico activo a 60 FPS.
+[2026-10-28 10:43:24,935] [INFO] (services.backup_service) Respaldo creado: backup_20261028_104324.zip | Original: 2,757 B -> Comprimido: 998 B (Ahorro: 63.8%)
+[2026-10-28 10:43:41,434] [INFO] (services.export_service) Reporte PDF generado exitosamente: contactos_20261028_104341.pdf
+[2026-10-28 10:43:49,479] [INFO] (services.export_service) Exportación CSV completada: contactos_20261028_104349.csv (10 filas).

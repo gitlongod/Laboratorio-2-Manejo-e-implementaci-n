@@ -1,0 +1,11 @@
+﻿ID,Nombre Completo,Teléfono,Correo Electrónico,Ciudad,Estado,Offset (Bytes),Registro #
+101,Ángel María Peña González,+502 5555-1201,angel.pena@corporacion.gt,Quetzaltenango,A,0,0
+102,Valeria Sofía Méndez Cifuentes,+502 5555-1202,valeria.mendez@consultoria.org,Guatemala,A,256,1
+103,Carlos René Rodas Alvarado,+502 5555-1203,carlos.rodas@tecnologia.gt,Antigua Guatemala,A,512,2
+104,Lucía Fernanda Morales Díaz,+502 5555-1204,lucia.morales@finanzas.com,Quetzaltenango,A,768,3
+105,Diego Alejandro Escobar López,+502 5555-1205,diego.escobar@servicios.io,Cobán,A,1024,4
+106,María José Gutiérrez Álvarez,+502 5555-1206,mj.gutierrez@innovacion.gt,Guatemala,A,1280,5
+107,Fernando José Castillo Herrera,+502 5555-1207,fernando.castillo@legal.com,Escuintla,A,1536,6
+108,Ana Gabriela Estrada Molina,+502 5555-1208,ana.estrada@salud.org,Quetzaltenango,A,1792,7
+109,Héctor Manuel Pineda Vásquez,+502 5555-1209,hector.pineda@logistica.com,Huehuetenango,A,2048,8
+110,Jimena Beatriz Arriola Cruz,+502 5555-1210,jimena.arriola@diseno.gt,Guatemala,A,2304,9
